@@ -13,7 +13,7 @@
 
 A machine-learning model that estimates the risk that a patient will be **readmitted to hospital after discharge**, so care teams can prioritise follow-up for the patients who need it most.
 
-📄 **Full write-up:** [Project Explanation](./Project%20Explanation%3A%20Hospital%20Patient%20Readmission%20Predictor.md)
+📄 **Full write-up:** [Project Explanation](./Project_Explanation.md)
 
 ---
 
