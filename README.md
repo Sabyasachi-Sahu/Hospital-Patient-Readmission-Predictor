@@ -16,7 +16,7 @@
 
 An end-to-end **clinical decision-support system** that predicts, *at the moment of discharge*, whether a patient is likely to be readmitted within **30 days** — and explains **why**, so care teams can target home check-ins and medication counselling where they matter most.
 
-📄 **Deep-dive guide:** [Project Explanation](./Project%20Explanation%3A%20Hospital%20Patient%20Readmission%20Predictor.md) — a beginner-friendly walkthrough of the clinical context, every feature choice and every code block.
+📄 **Deep-dive guide:** [Project Explanation](./Project_Explanation.md) — a beginner-friendly walkthrough of the clinical context, every feature choice and every code block.
 
 ---
 
